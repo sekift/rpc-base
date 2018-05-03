@@ -6,8 +6,8 @@
 1.完成netty基本功能，添加检测/屏蔽敏感词功能。<br />
 
 ## 使用和运行
-分为四个项目；
-rpc-base：父项目
+分为四个项目；<br />
+rpc-base：父项目<br />
  - rpc-common：公共类
  - rpc-service-api：对外API
  - rpc-server：服务端
