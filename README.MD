@@ -7,7 +7,7 @@
 
 ## 使用和运行
 分为四个项目；
-- rpc-base：父项目
+rpc-base：父项目
  - rpc-common：公共类
  - rpc-service-api：对外API
  - rpc-server：服务端
